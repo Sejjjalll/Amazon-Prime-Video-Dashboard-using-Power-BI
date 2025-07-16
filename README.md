@@ -1,7 +1,7 @@
 # Amazon-Prime-Video-Dashboard-using-Power-BI
 
 ## Preview
-![Amazon Prime Video Dashboard Preview](https://raw.githubusercontent.com/Sejjjalll/Amazon-Prime-Video-Dashboard-using-Power-BI/main/Amazon-Prime-Preview.png)
+![Amazon Prime Video Dashboard Preview](https://github.com/Sejjjalll/Amazon-Prime-Video-Dashboard-using-Power-BI/blob/main/Amazon-Prime-Video-Dashboard-Using-PowerBi.jpg)
 
 
 
