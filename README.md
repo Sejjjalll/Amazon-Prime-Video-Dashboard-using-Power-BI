@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project provides an analysis of Amazon Prime Video's industry growth from 1920 to 2021, focusing on both TV shows and movies. The dashboard, created with Power BI, offers insights into total titles, aggregate ratings, genres, directors, and the timeline covered.
+This project provides an analysis of Amazon Prime Video's industry growth from 1920 to 2021, focusing on both TV shows and movies. The dashboard, created with Power BI, offers insights into total titles, Total ratings, genres, Total directors, and the timeline covered.
 
 ## Dataset
 
