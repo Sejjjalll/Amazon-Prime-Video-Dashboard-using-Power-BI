@@ -2,8 +2,7 @@
 
 ## Preview
 
-![Amazon Prime Video Dashboard Preview](https://github.com/minhaj-313/Amazon-Prime-Video-Dashboard-Using-PowerBi/blob/main/Amazon%20Prime%20Video%20Dashboard%20by%20Shaikh%20Minhaj.png)
-
+![Amazon Prime Video Dashboard Preview](https://github.com/Sejjjalll/Amazon-Prime-Video-Dashboard-using-Power-BI/blob/main/Amazon-Prime-Video-Dashboard-Using-PowerBi.pdf)
 ## Overview
 
 This project provides an analysis of Amazon Prime Video's industry growth from 1920 to 2021, focusing on both TV shows and movies. The dashboard, created with Power BI, offers insights into total titles, aggregate ratings, genres, directors, and the timeline covered.
